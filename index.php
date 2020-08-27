@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Live Username Availability Checking using jQuery Ajax and PHP Demo</title>
+    <title>Live Username Availability Checking using jQuery Ajax and PHP Demo1</title>
     <meta name="description" content="Comprobar disponibilidad de nombre de usuario en vivo." />
     <meta name="author" content="Jose Aguilar">
     <link rel="shortcut icon" href="https://www.jose-aguilar.com/blog/wp-content/themes/jaconsulting/favicon.ico" />
